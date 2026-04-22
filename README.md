@@ -4,15 +4,15 @@ Esta PCB esta diseñada para soldarse directamente a la parte inferior de un rel
 Su principal ventaja es el espacio utilizado y el hecho de contar con todos los componentes para una fase de potencia que proteja al microcontrolador de corrientes parásitas generadas por el mismo relevador.
 
 <p align="center">
-    <img src="docs/PCB Control Rele Inferior" alt="Imagen muestra"
-    width="60%">
+    <img src="docs/PCB Control Rele Inferior.jpeg" alt="Imagen muestra"
+    width="35%">
 </p>
 
 ### Circuito esquemático
 
 <p align="center">
     <img src="docs/Esquematico Control Rele Inferior.jpeg" alt="Esquematico" 
-    width="75%">
+    width="65%">
 </p>
 
 ### Vista en 3D
@@ -38,5 +38,14 @@ Su principal ventaja es el espacio utilizado y el hecho de contar con todos los 
 
 <p align="center">
     <img src="docs/Dimensiones PCB Control Rele Inferior.jpeg" alt="Dimensiones"
-    width="60%">
+    width="50%">
 </p>
+
+## Redes
+- [Portafolio](https://github.com/HefestoPrimal/Portafolio)
+- [Linkedin](https://www.linkedin.com/in/angel-diaz-mexatronica/)
+- [YouTube](https://youtube.com/@mexatronica99)
+- [Facebook](https://www.facebook.com/mexatronica99)
+- [Instagram](https://www.instagram.com/mexatronica99/)
+- [Pinterest](https://mx.pinterest.com/mexatronica99/)
+- [TikTok](https://www.tiktok.com/@mexatronica99)
