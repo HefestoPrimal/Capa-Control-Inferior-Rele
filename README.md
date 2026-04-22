@@ -5,7 +5,7 @@ Su principal ventaja es el espacio utilizado y el hecho de contar con todos los 
 
 <p align="center">
     <img src="docs/PCB Control Rele Inferior.jpeg" alt="Imagen muestra"
-    width="60%">
+    width="35%">
 </p>
 
 ### Circuito esquemático
@@ -40,3 +40,12 @@ Su principal ventaja es el espacio utilizado y el hecho de contar con todos los 
     <img src="docs/Dimensiones PCB Control Rele Inferior.jpeg" alt="Dimensiones"
     width="50%">
 </p>
+
+## Redes
+- [Portafolio](https://github.com/HefestoPrimal/Portafolio)
+- [Linkedin](https://www.linkedin.com/in/angel-diaz-mexatronica/)
+- [YouTube](https://youtube.com/@mexatronica99)
+- [Facebook](https://www.facebook.com/mexatronica99)
+- [Instagram](https://www.instagram.com/mexatronica99/)
+- [Pinterest](https://mx.pinterest.com/mexatronica99/)
+- [TikTok](https://www.tiktok.com/@mexatronica99)
